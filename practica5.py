@@ -27,4 +27,4 @@ Button(window, text="Есептеу", command=esepteu).pack(pady=10)
 natizhe = Label(window, text="Нәтиже:")
 natizhe.pack(pady=10)
 
-window.mainloop() з
+window.mainloop() 
